@@ -1,6 +1,5 @@
 ###Things I've learned at Bloc:
 
-```
 1. HTML5
 2. CSS3
 3. Git Commands
@@ -9,4 +8,3 @@
 6. CSS Frameworks and how to choose them
 7. Slack
 8. General developer work-flow
-```
